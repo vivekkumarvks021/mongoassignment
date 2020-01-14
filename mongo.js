@@ -1,4 +1,4 @@
-// 1. mongoimport --db restaurents --collection restaurents json_filename_with_path
+// 1. db.restaurants.find()
 
 // 2.  db.restaurants.find({},{restaurant_id:1,borough:1,cuisine:1,name:1})
 
